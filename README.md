@@ -32,13 +32,13 @@
 ## Buenas prácticas de código
 
 ```javascript
-// ❌ Evitar nombres cortos o poco claros
+//  Evitar nombres cortos o poco claros
 let n = "Juan";
 function p(a) {
   return a >= 18;
 }
 
-// ✅ Usar nombres descriptivos
+// Usar nombres descriptivos
 let nombreUsuario = "Juan";
 function esMayorDeEdad(edadUsuario) {
   return edadUsuario >= 18;
