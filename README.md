@@ -23,11 +23,11 @@
 
 | Archivo | Función principal |
 | :--- | :--- |
-| `index.php` | Vista principal con el formulario y la tabla de libros. |
-| `guardar.php` | Guarda los nuevos registros en MySQL. |
-| `cambiarEstado.php` | Alterna el estado del libro (`1` Disponible / `0` Prestado). |
-| `script.js` | Valida los campos y la longitud del ISBN en el navegador. |
-| `styles.css` | Diseño visual responsivo basado en tarjetas. |
+| index.php | Vista principal con el formulario y la tabla de libros. |
+| guardar.php | Guarda los nuevos registros en MySQL. |
+| cambiarEstado.php | Alterna el estado del libro (1 Disponible / 0 Prestado). |
+| script.js | Valida los campos y la longitud del ISBN en el navegador. |
+| styles.css | Diseño visual responsivo basado en tarjetas. |
 
 ## Buenas prácticas de código
 
