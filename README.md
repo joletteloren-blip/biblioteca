@@ -32,7 +32,7 @@
  ## Buenas prácticas de código
 
 ```javascript
-//  Evitar nombres cortos o poco claros
+Evitar nombres cortos o poco claros
 let n = "Juan";
 function p(a) {
   return a >= 18;
