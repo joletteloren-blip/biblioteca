@@ -29,7 +29,7 @@
 | script.js | Valida los campos y la longitud del ISBN en el navegador. |
 | styles.css | Diseño visual responsivo basado en tarjetas. |
 
-## Buenas prácticas de código
+ Buenas prácticas de código
 
 ```javascript
 //  Evitar nombres cortos o poco claros
