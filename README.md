@@ -1,6 +1,6 @@
 #  Gestor de Biblioteca Web
 
-> Aplicación web ligera para administrar el catálogo y los préstamos de libros en tiempo real, desarrollada con PHP, MySQL y JavaScript.
+
 
 **Autor:** Jolete Carrasco Lorenzana
 **Contacto:** joletteloren@gmail.com
